@@ -5,5 +5,5 @@ Linda here, a third year computer science student at UBC who loves exploring new
 
 
 ### Currently working on: 
-- 🚧 building my portfolio website using React
+- 🏋🏻‍♀️ building my portfolio website using React
 - 🏕️ Researching summer hiking trails for my next weekend getaway
